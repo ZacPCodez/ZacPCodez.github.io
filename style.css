@@ -6,7 +6,7 @@ body {
   font-variant-ligatures: normal;
   font-size: 15px;
   letter-spacing: ;
-  background-color: white;
+  background-color: #404040;
   text-align: ;
   margin-left: ;
   margin-right: ;
@@ -30,7 +30,7 @@ h4 {
   font-size: 20px;
   letter-spacing: 1px;
   text-align: center;
-  color: grey;
+  color: black;
 }
 
 .header {
@@ -49,7 +49,6 @@ h4 {
   color: black;
   background-color: grey;
   height: 100px;
-  background-color: grey;
   background-image:
     radial-gradient(
       #00ff7f,
@@ -93,7 +92,7 @@ h4 {
   padding-right: 35px;
   margin-top: 10%;
   margin-top: 10%;
-  color: black;
+  color: white;
   font-size: 19px;
 }
 
@@ -106,7 +105,7 @@ h4 {
   padding-left: 1%;
   padding-right: 1%;
   text-align: center;
-  color: black;
+  color: white;
 }
 
 .logo1 {
@@ -116,7 +115,7 @@ h4 {
 
 .job1 {
   text-align: center;
-  color: grey;
+  color: black;
 }
 
 img {
@@ -129,7 +128,7 @@ img {
   text-align: ;
   margin-top: ;
   padding-left: ;
-  color: #daa520;
+  color: black;
   margin-left: 7%;
 }
 
@@ -144,7 +143,7 @@ img {
 
 .job2 {
   text-align: center;
-  color: grey;
+  color: black;
 }
 
 .list2 {
@@ -158,26 +157,26 @@ img {
 
 .job3 {
   text-align: center;
-  color: grey;
+  color: black;
 }
 
 .list3 {
   text-align: ;
-  color: #0000cd;
+  color: black;
 }
 
 .job4 {
   text-align: center;
-  color: grey;
+  color: black;
 }
 
 .list4 {
   text-align: ;
-  color: #0000cd;
+  color: black;
 }
 
 .h4ups {
-  color: grey; 
+  color: black; 
 }
 
 .education {
@@ -189,7 +188,7 @@ img {
   padding-left: 1%;
   padding-right: 1%;
   text-align: center;
-  color: black;
+  color: white;
 }
 
 .logo4 {
@@ -222,7 +221,7 @@ img {
 
 .h4usaf {
   text-align: center;
-  color: grey; 
+  color: black; 
 }
 
 .hobbies {
@@ -232,73 +231,66 @@ img {
 div.box1 {
   margin-left: 25%;
   margin-right: 25%;
-  border: 10px solid black;
+  border: 1px solid #00ff7f;
   margin-top: 7%;
   margin-bottom: 7%;
   padding-top: 3%;
   padding-bottom: 3%;
   padding-left: 3%;
   padding-right: 3%;
+  background-color: white;
 }
 
 div.box2 {
   margin-left: 25%;
   margin-right: 25%;
-  border: 10px solid black;
+  border: 1px solid #00ff7f;
   margin-top: 7%;
   margin-bottom: 7%;
   padding-top: 3%;
   padding-bottom: 3%;
   padding-left: 3%;
   padding-right: 3%;
+  background-color: white;
 }
 
 div.box3 {
   margin-left: 25%;
   margin-right: 25%;
-  border: 10px solid black;
+  border: 1px solid #00ff7f;
   margin-top: 7%;
   margin-bottom: 7%;
   padding-top: 3%;
   padding-bottom: 3%;
   padding-left: 3%;
   padding-right: 3%;
+  background-color: white;
 }
 
 div.box4 {
   margin-left: 25%;
   margin-right: 25%;
-  border: 10px solid black;
+  border: 1px solid #00ff7f;
   margin-top: 7%;
   margin-bottom: 7%;
   padding-top: 3%;
   padding-bottom: 3%;
   padding-left: 3%;
   padding-right: 3%;
-}
-
-div.box4 {
-  margin-left: 25%;
-  margin-right: 25%;
-  border: 10px solid black;
-  margin-top: 7%;
-  margin-bottom: 7%;
-  padding-top: 3%;
-  padding-bottom: 3%;
-  padding-left: 3%;
-  padding-right: 3%;
+  background-color: white;
 }
 
 div.box5 {
   margin-left: 25%;
   margin-right: 25%;
-  border: 10px solid black;
+  border: 1px solid #00ff7f;
   margin-top: 7%;
   margin-bottom: 7%;
   padding-top: 3%;
   padding-bottom: 3%;
   padding-left: 3%;
   padding-right: 3%;
+  background-color: white;
 }
 
 div.box6 {
@@ -338,5 +330,3 @@ div.box7 {
       black 
     ); 
 }
-
-
