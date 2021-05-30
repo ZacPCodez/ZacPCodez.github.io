@@ -1,8 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
 
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-variant-ligatures: normal;
-  font-size: 20px;
+  font-size: 16px;
   background-color: #303030;
 }
 
@@ -11,20 +17,22 @@ h1 {
   font-variant-ligatures: normal;
   letter-spacing: 1px;
   text-align: center;
+  color: #303030;
 }
 
 h4 {
   font-family: Arial, Helvetica, sans-serif;
   font-variant-ligatures: normal;
-  font-size: 20px;
+  font-size: 16px;
   letter-spacing: 1px;
   text-align: center;
-  color: black;
+  color: #181818;
 }
 
 .header {
-  padding-top: 1%;
-  padding-bottom: 1%;
+  padding-top: 4%;
+  padding-bottom: 0%;
+  margin-top: 0%;
   margin-bottom: -1%;
   margin-left: 0;
   margin-right: 0;
@@ -81,6 +89,7 @@ h4 {
   color: white;
   font-size: 19px;
   font-style: italic;
+  padding-bottom: 5%;
 }
 
 .experience {
@@ -102,7 +111,7 @@ h4 {
 
 .job1 {
   text-align: center;
-  color: black;
+  color: #181818;
 }
 
 img {
@@ -112,13 +121,14 @@ img {
 }
 
 .list1 {
-  color: black;
+  color: #181818;
   margin-left: 7%;
 }
 
 .aflogo {
   max-width: 7%;
   height: auto;
+  padding-bottom: 3%;
 }
 
 .logo2 {
@@ -127,12 +137,12 @@ img {
 
 .job2 {
   text-align: center;
-  color: black;
+  color: #181818;
 }
 
 .list2 {
   text-align: ;
-  color: black;
+  color: #181818;
 }
 
 .logo3 {
@@ -141,24 +151,24 @@ img {
 
 .job3 {
   text-align: center;
-  color: black;
+  color: #181818;
 }
 
 .list3 {
-  color: black;
+  color: #181818;
 }
 
 .job4 {
   text-align: center;
-  color: black;
+  color: #181818;
 }
 
 .list4 {
-  color: black;
+  color: #181818;
 }
 
 .h4ups {
-  color: black; 
+  color: #181818; 
 }
 
 .education {
@@ -180,20 +190,22 @@ img {
 .centurylogo {
   max-width: 8%;
   height: auto;
+  padding-top: 2%;
+  padding-bottom: 5%;
 }
 
 .paragraph2 {
   text-align: center;
-  color: black;  
+  color: #181818;  
 }
 
 .references {
   text-align: center;
-  color: black;
+  color: #181818;
 }
 
 .paragraph3 {
-  color: black;
+  color: #181818;
 }
 
 .paragraph4 {
@@ -202,7 +214,7 @@ img {
 
 .h4usaf {
   text-align: center;
-  color: black; 
+  color: #181818; 
 }
 
 .hobbies {
@@ -289,7 +301,7 @@ div.box6 {
 }
 
 div.box7 {
-  padding-top: -5%;
+  padding-top: 4%;
   padding-bottom: 5%;
   margin-top: -1%;
   margin-bottom: -5%;
