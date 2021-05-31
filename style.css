@@ -1,323 +1,142 @@
-*{
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  text-decoration: none;
-}
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  
+  <body>
+    
+    <div class="header">
+      <h1>Zachariah Peterson</h1>
+    </div>
+    
+    <div class="info">
+      <p>763-221-3033 &nbsp; &nbsp; &nbsp; &nbsp; zacpcodez@gmail &nbsp; &nbsp; &nbsp; &nbsp; Woodbury, MN 55125</p>
+    </div>
+    
+    <div class="paragraph1"> 
+      <p>
+        <i>"I hold a strong belief in hard work, empathy, creativity, and maintaining a positive outlook! I would be excited for the opportunity of becoming a Prime Alum!"</i>
+      </p>
+    </div>
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  font-variant-ligatures: normal;
-  font-size: 16px;
-  background-color: #202020;
-}
+    <div class="experience">
+      <h2>Experience</h2>
+    </div>
+    
+  
+    <div class="box1">
+      <div class="logo1">
+        <img class="upslogo" src="https://www.stattimes.com/statbackend/assets/uploads/ups-03apr2017.jpg"/>
+      </div>
+      
+      <div class="job1">
+        <h4>United Parcel Service</h4>
+        <h4>Package Handler, Eagan MN - 6/18-6/20</h4><br>
+      </div>
+    
+      <div class="list1">
+        <ul>
+          <li>Loaded packages of varying weight onto trucks.</li><br>
+          <li>Unloaded packages from trucks.</li><br>
+          <li>Sorted packages and completed other tasks as directed.</li><br>
+        </ul>
+      </div>
+    </div>
+   
+    <div class="box2">
+      <div class="logo2">
+        <img class="cstonelogo" src="https://media.istockphoto.com/vectors/trowel-plastering-concrete-icon-vector-vector-id1179953387?k=6&m=1179953387&s=612x612&w=0&h=i_nWMS4c9OJcvxJiepChye_dgq-fWTd2erGDNPvRbIo="/>
+      </div>
+    
+      <div class="job2">
+        <h4>Cornerstone Masonry & Concrete</h4>
+        <h4>Concrete Finisher, Miles City, MT - 09/09-07/16</h4><br>
+      </div>
+    
+      <div class="list2">
+        <ul>
+          <li>Proficient at concrete finishing as well as masonry skills ranging from block laying to stucco repair.</li><br>
+          <li>Calculated and provided estimates on construction projects for potential customers.</li><br>
+          <li>Trained new employees on masonry and concrete skills.</li><br>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="box3">
+      <div class="logo3">
+        <img class="aflogo" src="https://i.pinimg.com/originals/db/4c/36/db4c36c90523a144ec0841599b726afd.jpg"/>
+      </div>
+    
+      <div class="job3">
+        <h4>U.S. Air Force</h4>  
+        <h4>Security Forces Controller, ROK- 07/08-07/09</h4><br>
+      </div>
+   
+      <div class="list3">
+        <ul>
+          <li>Received and dispatched 911 calls along with on base hospital and fire department.</li><br>
+          <li>Wrote reports ranging on variety of areas such as: vehicle accidents, alarm activations, 911 calls, in-flight emergencies, bomb threats, and tactical dispatching on array of different scenarios.</li><br>
+          <li>Was designated Radio Telephone Operator during on base exercises, directed air base defense forces mitigating ground threats, which contributed to receiving the Air Force Achievement Metal.</li><br>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="box4">
+      <div class="logo3">
+        <img class="aflogo" src="https://i.pinimg.com/originals/db/4c/36/db4c36c90523a144ec0841599b726afd.jpg"/>
+      </div>
+    
+      <div class="job4">
+        <h4>U.S. Air Force</h4>
+        <h4>Security Forces Controller, USA- 02/06-07/08</h4><br>
+      </div>
+    
+      <div class="list4">
+        <ul>
+          <li>Monitored alarm systems for confidential amount of nuclear weaponry.</li><br>
+          <li>Dispatched security teams during routine and emergency situations.</li><br>
+          <li>Controlled access to Nuclear Launch Facilities and Missile Alert Facilities.</li><br>
+        </ul>
+      </div>
+    </div>
 
-h1 {
-  font-family: Arial, Helvetica, sans-serif;
-  font-variant-ligatures: normal;
-  letter-spacing: 1px;
-  font-weight: 900;
-  text-align: center;
-  color: #181818;
-}
+    <div class="education">
+      <h2>Education</h2>
+    </div>
+    
+    <div class="box5">
+      <div class="logo4">
+        <img class="centurylogo" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Century_college_logo_lrg.jpg"/>
+      </div>
 
-h4 {
-  font-family: Arial, Helvetica, sans-serif;
-  font-variant-ligatures: normal;
-  font-size: 16px;
-  letter-spacing: 1px;
-  text-align: center;
-  color: #181818;
-}
+      <h4 class="h4century">Century College</h4><br>
 
-.header {
-  padding-top: 4%;
-  padding-bottom: 0%;
-  margin-top: 0%;
-  margin-bottom: -1%;
-  margin-left: 0;
-  margin-right: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: 100;
-  font-variant-ligatures: normal;
-  font-size: 21px;
-  letter-spacing: 1px;
-  text-align: center;
-  border: 2px solid #181818;
-  color: #181818;
-  background-color: grey;
-  height: 100px;
-  background-image:
-    radial-gradient(
-      #00ff7f,
-      #181818 
-    );
-}
+      <div class="paragraph2">
+        <p>Associate in Arts degree from Century College (May 2017)</p><br>
+        <p>Global Studies Certificate from Century College (May 2017)</p>
+      </div>
+    </div>
+    
+    <div class="box6">
+      <div class="hobbies">
+        <h2>Interests/Hobbies<h2><br>
+      </div>
+       
+      <p class="paragraph4">
+        Stock Market, Fantasy Football, Running, Traveling, Chess, Investing/Trading, Sports Betting   
+      </p>
+    </div>
 
-.info {
-  word-spacing: 4px;
-  text-align: center;
-  color: #00ff7f;
-  background-color: #181818; 
-  font-size: 14px;
-  margin-top: 1%;
-  margin-bottom: 1%;
-  padding-top: 1%;
-  padding-bottom: 1%;
-  padding-left: 1%;
-  padding-right: 1%;
-}
-
-.profile {
-  margin-left: 25%;
-  margin-right: 25%;
-  font-family: Arial, Helvetica, sans-serif;
-  font-style: italic;
-  font-variant-ligatures: normal;
-  letter-spacing: 1px;
-  text-align: center;
-  color: white;
-}
-
-.paragraph1 {
-  margin-left: 25%;
-  margin-right: 25%;
-  text-align: center;
-  padding-left: 35px;
-  padding-right: 35px;
-  margin-top: 10%;
-  margin-top: 10%;
-  color: white;
-  font-size: 19px;
-  font-style: italic;
-  padding-bottom: 5%;
-  line-height: 1.4;
-}
-
-.experience {
-  margin-left: 25%;
-  margin-right: 25%;
-  margin-bottom: -5%;
-  padding-top: 5%;
-  padding-bottom: 0%;
-  padding-left: 1%;
-  padding-right: 1%;
-  text-align: center;
-  color: #00ff7f;
-}
-
-.logo1 {
-  text-align: center;
-  background-color: white
-}
-
-.job1 {
-  text-align: center;
-  color: #181818;
-}
-
-img {
- max-width: 14%;
- height: auto;
- background-color: white;
-}
-
-.list1 {
-  color: #181818;
-  margin-left: 7%;
-}
-
-.aflogo {
-  max-width: 7%;
-  height: auto;
-  padding-bottom: 3%;
-}
-
-.logo2 {
-  text-align: center;
-}
-
-.job2 {
-  text-align: center;
-  color: #181818;
-}
-
-.list2 {
-  text-align: ;
-  color: #181818;
-}
-
-.logo3 {
-  text-align: center;
-}
-
-.job3 {
-  text-align: center;
-  color: #181818;
-}
-
-.list3 {
-  color: #181818;
-}
-
-.job4 {
-  text-align: center;
-  color: #181818;
-}
-
-.list4 {
-  color: #181818;
-}
-
-.h4ups {
-  color: #181818; 
-}
-
-.education {
-  margin-left: 25%;
-  margin-right: 25%;
-  margin-bottom: -5%;
-  padding-top: 0%;
-  padding-bottom: 0%;
-  padding-left: 1%;
-  padding-right: 1%;
-  text-align: center;
-  color: #00ff7f;
-}
-
-.logo4 {
-  text-align: center;
-}
-
-.centurylogo {
-  max-width: 8%;
-  height: auto;
-  padding-top: 2%;
-  padding-bottom: 5%;
-}
-
-.paragraph2 {
-  text-align: center;
-  color: #181818;  
-}
-
-.references {
-  text-align: center;
-  color: #181818;
-}
-
-.paragraph3 {
-  color: #181818;
-}
-
-.paragraph4 {
-  text-align: center;
-}
-
-.h4usaf {
-  text-align: center;
-  color: #181818; 
-}
-
-.hobbies {
-  text-align: center;
-}
-
-div.box1 {
-  margin-left: 25%;
-  margin-right: 25%;
-  border: 1px solid #00ff7f;
-  margin-top: 7%;
-  margin-bottom: 7%;
-  padding-top: 3%;
-  padding-bottom: 3%;
-  padding-left: 3%;
-  padding-right: 3%;
-  background-color: white;
-}
-
-div.box2 {
-  margin-left: 25%;
-  margin-right: 25%;
-  border: 1px solid #00ff7f;
-  margin-top: 7%;
-  margin-bottom: 7%;
-  padding-top: 3%;
-  padding-bottom: 3%;
-  padding-left: 3%;
-  padding-right: 3%;
-  background-color: white;
-}
-
-div.box3 {
-  margin-left: 25%;
-  margin-right: 25%;
-  border: 1px solid #00ff7f;
-  margin-top: 7%;
-  margin-bottom: 7%;
-  padding-top: 3%;
-  padding-bottom: 3%;
-  padding-left: 3%;
-  padding-right: 3%;
-  background-color: white;
-}
-
-div.box4 {
-  margin-left: 25%;
-  margin-right: 25%;
-  border: 1px solid #00ff7f;
-  margin-top: 7%;
-  margin-bottom: 7%;
-  padding-top: 3%;
-  padding-bottom: 3%;
-  padding-left: 3%;
-  padding-right: 3%;
-  background-color: white;
-}
-
-div.box5 {
-  margin-left: 25%;
-  margin-right: 25%;
-  border: 1px solid #00ff7f;
-  margin-top: 7%;
-  margin-bottom: 7%;
-  padding-top: 3%;
-  padding-bottom: 3%;
-  padding-left: 3%;
-  padding-right: 3%;
-  background-color: white;
-}
-
-div.box6 {
-  word-spacing: 4px;
-  text-align: center;
-  color: #00ff7f;
-  background-color: #181818; 
-  font-size: 15px;
-  margin-top: 1%;
-  margin-bottom: 1%;
-  padding-top: 1%;
-  padding-bottom: 1%;
-  padding-left: 1%;
-  padding-right: 1%;
-}
-
-div.box7 {
-  padding-top: 4%;
-  padding-bottom: 5%;
-  margin-top: -1%;
-  margin-bottom: -5%;
-  font-family: Arial, Helvetica, sans-serif;
-  font-variant-ligatures: normal;
-  font-size: 15px;
-  letter-spacing: 1px;
-  text-align: center;
-  border: 2px solid #181818;
-  color: #181818;
-  height: 100px;
-  background-image:
-    radial-gradient(
-      #00ff7f,
-      #181818 
-    ); 
-}
+    <div class="box7">
+      <div class="references">
+        <h2>References</h2><br>
+      </div>
+    
+      <div class="paragraph3">
+        <p>Jake Bussian 651-503-2300 UPS Manager, Johny Beaton 612-559-2492 UPS Supervisor</p>
+        <p>Justin Voltz 612-998-3204 UPS Coworker, Layne Ziebarth 406-851-8367 Cornerstone Masonry Coworker</p>
+      </div> 
+    </div>
+  </body>
+</html>
